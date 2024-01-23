@@ -20,3 +20,7 @@ To use this to-do list application, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## The App
+![image](https://github.com/AliBnh/ToDoListJS/assets/107149305/4edbe2b5-4b52-4bc8-bd2e-da97908d8a93)
+
